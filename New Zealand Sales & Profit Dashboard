@@ -1,0 +1,27 @@
+# 📊 New Zealand Sales & Profit Dashboard
+
+## Project Overview
+This Power BI dashboard analyzes sales and profit performance using interactive visualizations.
+
+## Tools Used
+- Power BI
+- CSV Dataset
+
+## Dashboard Features
+- Total Sales
+- Total Profit
+- Total Orders
+- Average Sales
+- Monthly Sales Trend
+- Sales by Region
+- Sales & Profit by Category
+- Profit by Region
+- Interactive Slicers
+
+## Files
+- Dashboard.pbix
+- Dataset.csv
+- Dashboard Screenshot
+
+## Author
+Disha Dongre
